@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SoudipBiswas/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3614-process-string-with-special-operations-ii](https://github.com/SoudipBiswas/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoudipBiswas/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/SoudipBiswas/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
