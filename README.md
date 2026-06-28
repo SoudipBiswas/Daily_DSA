@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoudipBiswas/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SoudipBiswas/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
