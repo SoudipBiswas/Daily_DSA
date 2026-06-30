@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SoudipBiswas/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SoudipBiswas/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -57,10 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SoudipBiswas/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
@@ -90,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SoudipBiswas/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
