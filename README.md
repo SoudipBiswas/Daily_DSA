@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SoudipBiswas/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/SoudipBiswas/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudipBiswas/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/SoudipBiswas/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
