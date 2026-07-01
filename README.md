@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoudipBiswas/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoudipBiswas/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SoudipBiswas/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +110,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SoudipBiswas/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
