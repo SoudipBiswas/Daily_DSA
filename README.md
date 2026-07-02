@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SoudipBiswas/DSA/tree/master/0036-valid-sudoku) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoudipBiswas/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
