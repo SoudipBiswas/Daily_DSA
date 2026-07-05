@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/SoudipBiswas/DSA/tree/master/0036-valid-sudoku) |
+| [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoudipBiswas/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SoudipBiswas/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/SoudipBiswas/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SoudipBiswas/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/SoudipBiswas/DSA/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SoudipBiswas/DSA/tree/master/0036-valid-sudoku) |
+| [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
