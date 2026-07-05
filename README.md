@@ -129,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SoudipBiswas/DSA/tree/master/0100-same-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoudipBiswas/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoudipBiswas/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoudipBiswas/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SoudipBiswas/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SoudipBiswas/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SoudipBiswas/DSA/tree/master/0100-same-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoudipBiswas/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
