@@ -166,17 +166,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SoudipBiswas/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SoudipBiswas/DSA/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SoudipBiswas/DSA/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SoudipBiswas/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SoudipBiswas/DSA/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SoudipBiswas/DSA/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SoudipBiswas/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/SoudipBiswas/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SoudipBiswas/DSA/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/SoudipBiswas/DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
