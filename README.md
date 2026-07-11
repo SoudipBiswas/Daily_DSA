@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SoudipBiswas/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SoudipBiswas/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/SoudipBiswas/DSA/tree/master/0041-first-missing-positive) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/SoudipBiswas/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SoudipBiswas/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SoudipBiswas/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
