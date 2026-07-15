@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/SoudipBiswas/DSA/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/SoudipBiswas/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SoudipBiswas/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoudipBiswas/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SoudipBiswas/DSA/tree/master/0041-first-missing-positive) |
 | [0981-time-based-key-value-store](https://github.com/SoudipBiswas/DSA/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/SoudipBiswas/DSA/tree/master/1146-snapshot-array) |
+| [1331-rank-transform-of-an-array](https://github.com/SoudipBiswas/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudipBiswas/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SoudipBiswas/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SoudipBiswas/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SoudipBiswas/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
