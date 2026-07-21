@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SoudipBiswas/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SoudipBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1146-snapshot-array](https://github.com/SoudipBiswas/DSA/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SoudipBiswas/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SoudipBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0981-time-based-key-value-store](https://github.com/SoudipBiswas/DSA/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/SoudipBiswas/DSA/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/SoudipBiswas/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
