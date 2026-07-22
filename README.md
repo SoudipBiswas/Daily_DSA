@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/SoudipBiswas/DSA/tree/master/0275-h-index-ii) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SoudipBiswas/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SoudipBiswas/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SoudipBiswas/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
+| [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoudipBiswas/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SoudipBiswas/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SoudipBiswas/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
