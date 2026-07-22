@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SoudipBiswas/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/SoudipBiswas/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
+| [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SoudipBiswas/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SoudipBiswas/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SoudipBiswas/DSA/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SoudipBiswas/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/SoudipBiswas/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SoudipBiswas/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
