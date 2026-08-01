@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SoudipBiswas/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SoudipBiswas/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/SoudipBiswas/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoudipBiswas/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/SoudipBiswas/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/SoudipBiswas/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SoudipBiswas/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoudipBiswas/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SoudipBiswas/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
