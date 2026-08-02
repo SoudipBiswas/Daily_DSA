@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SoudipBiswas/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SoudipBiswas/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SoudipBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
 | [1146-snapshot-array](https://github.com/SoudipBiswas/DSA/tree/master/1146-snapshot-array) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SoudipBiswas/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoudipBiswas/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
+| [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SoudipBiswas/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoudipBiswas/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -378,4 +381,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
