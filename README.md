@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/SoudipBiswas/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1563-stone-game-v](https://github.com/SoudipBiswas/DSA/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SoudipBiswas/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SoudipBiswas/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SoudipBiswas/DSA/tree/master/2029-stone-game-ix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [1140-stone-game-ii](https://github.com/SoudipBiswas/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [2485-find-the-pivot-integer](https://github.com/SoudipBiswas/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SoudipBiswas/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SoudipBiswas/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SoudipBiswas/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SoudipBiswas/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SoudipBiswas/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SoudipBiswas/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SoudipBiswas/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SoudipBiswas/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SoudipBiswas/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SoudipBiswas/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SoudipBiswas/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SoudipBiswas/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/SoudipBiswas/DSA/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/SoudipBiswas/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -446,18 +450,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SoudipBiswas/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/SoudipBiswas/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/SoudipBiswas/DSA/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SoudipBiswas/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SoudipBiswas/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SoudipBiswas/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SoudipBiswas/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/SoudipBiswas/DSA/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/SoudipBiswas/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/SoudipBiswas/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/SoudipBiswas/DSA/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
