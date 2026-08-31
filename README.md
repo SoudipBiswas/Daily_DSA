@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/SoudipBiswas/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SoudipBiswas/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SoudipBiswas/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
