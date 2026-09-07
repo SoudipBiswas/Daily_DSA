@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/SoudipBiswas/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SoudipBiswas/DSA/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/SoudipBiswas/DSA/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/SoudipBiswas/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0981-time-based-key-value-store](https://github.com/SoudipBiswas/DSA/tree/master/0981-time-based-key-value-store) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SoudipBiswas/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SoudipBiswas/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/SoudipBiswas/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/SoudipBiswas/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/SoudipBiswas/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/SoudipBiswas/DSA/tree/master/1406-stone-game-iii) |
