@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SoudipBiswas/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SoudipBiswas/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SoudipBiswas/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SoudipBiswas/DSA/tree/master/0148-sort-list) |
 | [0354-russian-doll-envelopes](https://github.com/SoudipBiswas/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0436-find-right-interval](https://github.com/SoudipBiswas/DSA/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SoudipBiswas/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/SoudipBiswas/DSA/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/SoudipBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/SoudipBiswas/DSA/tree/master/1288-remove-covered-intervals) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SoudipBiswas/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/SoudipBiswas/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/SoudipBiswas/DSA/tree/master/0367-valid-perfect-square) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SoudipBiswas/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/SoudipBiswas/DSA/tree/master/0486-predict-the-winner) |
 | [0528-random-pick-with-weight](https://github.com/SoudipBiswas/DSA/tree/master/0528-random-pick-with-weight) |
 | [0877-stone-game](https://github.com/SoudipBiswas/DSA/tree/master/0877-stone-game) |
